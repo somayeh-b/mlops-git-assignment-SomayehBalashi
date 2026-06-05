@@ -1,4 +1,7 @@
+Name: Somayeh Balashi | Student ID: 147025241
+
 # MLOps Git Assignment-SomayehBalashi
+
 This repository is for practicing Git branching, merging, and collaboration workflows.
 This repository is designed to demonstrate professional version control workflows in Machine Learning Operations (MLOps).
 It serves as a foundational project for managing code, data pipelines, and deployment structures using Git.
