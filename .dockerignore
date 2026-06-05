@@ -7,3 +7,7 @@ __pycache__/
 env/
 venv/
 .venv/
+# Local development
+.git
+.gitignore
+.env
