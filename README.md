@@ -1,4 +1,5 @@
 Name: Somayeh Balashi | Student ID: 147025241
+Course Code: MAI201 | Date: June 4, 2026
 
 # MLOps Git Assignment-SomayehBalashi
 
